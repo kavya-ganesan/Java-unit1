@@ -1,5 +1,5 @@
 import java.util.*;
-public class mul {
+public class fact{
     public static void main(String args[]) {
       Scanner scan = new Scanner(System.in);
       int n = scan.nextInt();
